@@ -13,7 +13,6 @@ The repository is organized into the following key topics, each with theoretical
 - **Galerkin Method Error Analysis**: Deriving and analyzing the error terms when applying Galerkin methods.
 - **Gauss-Jacobi Integration**: Numerical integration using Gaussian quadrature and Chebyshev nodes.
 - **Bernstein Polynomials**: Studying the Bernstein polynomials and their role in uniform approximation.
-- **Fourier Series Integration and Applications**: Applications of Fourier series in integrating functions.
 
 Each folder contains:
 - **Theory files (Markdown)**: Overview and detailed explanations of key concepts.
@@ -49,10 +48,6 @@ Each folder contains:
 ### 7. Bernstein Polynomials
 - **Bernstein Polynomials**: Study the uniform approximation properties of Bernstein polynomials.  
   - Files: `bernstein_polynomials_theory.md`.
-
-### 8. Fourier Series Integration and Applications
-- **Fourier Series**: Apply Fourier series for solving integrals and examine how they can be used to approximate functions.  
-  - Files: `fourier_series_analysis.md`, `fourier_series_integration.py`.
 
 ## Instructions for Running Code
 
