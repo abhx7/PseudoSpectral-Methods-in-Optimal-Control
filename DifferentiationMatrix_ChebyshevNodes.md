@@ -66,6 +66,7 @@ D_{ii} = -\sum_{j \neq i} D_{ij}.
 
 This differentiation matrix can then be used for numerical differentiation of functions sampled at Chebyshev nodes.
 
+
 ### Example Code
 
 Here’s an example code in MATLAB to compute the differentiation matrix for Chebyshev nodes:
