@@ -39,5 +39,9 @@ grid on;
 hold off;
 
 
-figure(2)
-plot(x, ex);
+figure(2);
+plot(x, ex, 'LineWidth', 3, 'Color', 'b');
+xlabel('x', 'FontSize', 12);
+ylabel('f(x)', 'FontSize', 12);
+title('Error for Fourier Series Approximation of the Function', 'FontSize', 14);
+
