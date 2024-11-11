@@ -13,6 +13,8 @@ The repository is organized into the following key topics, each with theoretical
 - **Galerkin Method Error Analysis**: Deriving and analyzing the error terms when applying Galerkin methods.
 - **Gauss-Jacobi Integration**: Numerical integration using Gaussian quadrature and Chebyshev nodes.
 - **Bernstein Polynomials**: Studying the Bernstein polynomials and their role in uniform approximation.
+- **Non Linear Programming**
+- 
 
 Each folder contains:
 - **Theory files (Markdown)**: Overview and detailed explanations of key concepts.
