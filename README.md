@@ -51,15 +51,3 @@ Each folder contains:
 - **Bernstein Polynomials**: Study the uniform approximation properties of Bernstein polynomials.  
   - Files: `bernstein_polynomials_theory.md`.
 
-## Instructions for Running Code
-
-### Dependencies
-The Python code requires the following libraries:
-- `numpy`
-- `scipy`
-- `matplotlib`
-
-You can install these using `pip`:
-
-```bash
-pip install numpy scipy matplotlib
