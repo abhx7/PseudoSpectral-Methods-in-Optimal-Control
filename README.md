@@ -24,3 +24,5 @@ Each folder contains:
 - *Plots*: Visualizations of various mathematical concepts, functions, and results.
 
   Compiled notes and can also split it into folder for each chapter along with respective codes
+
+  My Handwritten Notes - https://drive.google.com/file/d/1xqSCkJb3MroN2helvRMsYTTDP5L0fR-l/view?usp=drive_link
