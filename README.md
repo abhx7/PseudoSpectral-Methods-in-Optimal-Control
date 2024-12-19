@@ -10,10 +10,17 @@ The repository is organized into the following key topics, each with theoretical
 ## Contents Overview
 
 - **Optimal Control**: Methods for solving optimal control problems, including direct and indirect methods, and static Lagrange multipliers.
-- **Interpolation**: Understanding interpolation methods, including Lagrange interpolation, Newton's divided difference, and Barycentric interpolation.
-- **Orthogonal Polynomials**: Exploring the recurrence relations of Legendre, Chebyshev, and other orthogonal polynomials.
+- **Interpolation**: Understanding interpolation methods, including Lagrange interpolation, Newton's divided difference, how the Vandermonde matrix is used in interpolation and Barycentric interpolation.   
+- **Orthogonal Polynomials**: Exploring the properties and recurrence relations of Legendre, Chebyshev, and other orthogonal polynomials.
 - **Spectral Methods**: A deep dive into Fourier series, Galerkin methods, and the application of spectral methods for solving boundary value problems.
-- **Galerkin Method**: Deriving and analyzing the error terms when applying Galerkin methods.
+- **Galerkin Method**: Deriving and analyzing the error terms and stability when applying Galerkin methods/approximation.
 - **Gauss-Jacobi Integration**: Numerical integration using Gaussian quadrature and Chebyshev nodes.
 - **Bernstein Polynomials**: Studying the Bernstein polynomials and their role in uniform approximation.
 - **Fourier Approximation**
+
+Each folder contains:
+- *Theory files (Markdown)*: Overview and detailed explanations of key concepts.
+- *Python code files*: Implementations and computations in Python, along with generated plots to visualize the theoretical concepts.
+- *Plots*: Visualizations of various mathematical concepts, functions, and results.
+
+  Compiled notes and can also split it into folder for each chapter along with respective codes
