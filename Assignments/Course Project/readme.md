@@ -55,7 +55,7 @@ Below are some example outputs (see `images/` folder for more):
 
 
 ### Optimized Trajectories
-![Trajectory]([images/trajectory.png](https://github.com/abhx7/PseudoSpectral-Methods-in-Optimal-Control/blob/main/Assignments/Course%20Project/traj.png))
+![Trajectory](https://github.com/abhx7/PseudoSpectral-Methods-in-Optimal-Control/blob/main/Assignments/Course%20Project/traj.png))
 
 
 ---
