@@ -1,6 +1,6 @@
 # Contributors
 
-A big thank you to everyone who has contributed to this project! Here’s a list of contributors and a brief summary of their contributions.
+Here’s a list of my team members on this group project
 
 ---
 
